@@ -1,0 +1,10 @@
+Time (min), Furnace (C), Thermocouple (C)
+time furnace thermocouple
+2 500 400
+4 750 800
+6 900 942
+9 900 928
+15 900 921
+20 900 918
+30 900 916
+45 900 915
